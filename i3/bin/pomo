@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby 
+
+system('paplay /usr/share/sounds/LinuxMint/stereo/system-ready.ogg && notify-send \'Go farm more IQ :) Or go watch Anime, both have the same results!\'')
+
